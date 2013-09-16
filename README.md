@@ -5,12 +5,12 @@ The Dragonborn Comes
 
 ##Data-Structure 数据结构##
 
-Binary Indexed Tree
-Disjoint Set
-Splay Tree
-RMQ
-Segment Tree
-Treap
+Binary Indexed Tree  
+Disjoint Set  
+Splay Tree  
+RMQ  
+Segment Tree  
+Treap  
 
 ##Dynamic-Programming 动态规划##
 
